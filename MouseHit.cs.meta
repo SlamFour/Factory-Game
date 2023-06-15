@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 41812648163e01546b05e9ac885f3b5c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - LogFactory: {fileID: 1226595650868895024, guid: 2b409a039e43c664fa89f01ccef666ec, type: 3}
+  - Farm: {fileID: 1226595650868895024, guid: db2fe74c2a8ade34bbcb7109be12a26d, type: 3}
+  - Mine: {fileID: 1226595650868895024, guid: abfeda1b5e1b90044a5b0ef31ab3b78b, type: 3}
+  - LogFactoryUp: {fileID: 1226595650868895024, guid: ec0414bab65c2474987d987f308b1793, type: 3}
+  - FarmUp: {fileID: 1226595650868895024, guid: 4859203f1583f36428a98b001b6ed0dd, type: 3}
+  - MineUp: {fileID: 1226595650868895024, guid: ac10a85b394f36c4d8e302b39cd9a667, type: 3}
+  - tileStats: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
